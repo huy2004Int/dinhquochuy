@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello world
 Hello Thư
+=======
+Xin chào Huy
+>>>>>>> ec1fc187ece56a46f383f9f95fe019275ffbe354
